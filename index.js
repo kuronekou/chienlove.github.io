@@ -11,7 +11,7 @@ function removeCharRegExp(string) {
 }
 
 async function addDepiction(pathF, info) {
-   if (!info.Depiction?.match(new RegExp(removeCharRegExp(`${env.Depiction}${info.Package}@${info.Version}`)))) {
+   if (!info.Depiction || !info.Depiction.match(new RegExp(removeCharRegExp(`${env.Depiction}${info.Package}@${info.Version}`)))) {
 
       const pathTmp = `${__dirname}/tmp`
 
