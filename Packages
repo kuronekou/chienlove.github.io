@@ -81,20 +81,3 @@ dev: lightmann
 Icon: file:///Library/PreferenceBundles/TransparentNotifPrefs.bundle/icon@2x.png
 Depiction: https://chienlove.github.io/package/me.lightmann.transparentnotif@1.0.6.3-1
 
-Package: net.storeios.sphere
-Architecture: iphoneos-arm
-Version: 1.1
-Section: Tweaks
-Maintainer: Chienlove <app@storeios.net>
-Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common (>= 1.11), preferenceloader
-Filename: ./debs/net.storeios.sphere@1.1.deb
-Size: 235234
-MD5sum: fb2d714d9dbdfc8e1c4e882375394033
-SHA1: 702ec597992ff912e36b853396d0e14aecef84d0
-SHA256: 113cce642d5bdb3ce5f0309ab43e71cb7af64330fe075ffd36b41ca3ffb2d40c
-SHA512: fdfdccbd8777ab8dfd8efc3c14ce726fccd09333f24ba05eb3de5952ecc7c55a5676df047ad14e124791761e5e31d4bb58c00167bf82ce3d8a9887b55dd51f7c
-Description: Đa nhiệm ở mức tốt nhất!
-Name: Sphere VH
-Author: SynnyG <synnyg.devjb@gmail.com>
-Depiction: https://chienlove.github.io/package/net.storeios.sphere@1.1
-
