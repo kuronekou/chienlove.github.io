@@ -6,18 +6,18 @@ Maintainer: nguyenthanh1995 <thanhnguyennguyen1995@gmail.com>
 Depends: mobilesubstrate
 Conflicts: me.pulandres.appaze
 Filename: ./debs/git.shin.3dtools@1.0.5.deb
-Size: 1135636
-MD5sum: 7e56939d5422896e7c7090045ffb4499
-SHA1: 3f60c1b9b8059f0746e8fcbf93cc606c87612b45
-SHA256: 120bc1cfa817891df52cc1d2983676cdd7f7ebbe1641a21544d522be38f3cf6d
-SHA512: 82baaa40ef5c0c9d16ee5b9214ba7034ade27acef3e3b94710f02b76e3abb45a1fc7d6343a69ab8ed92cdc9c0a8beebbffda726264d011cf851f80240af51fb3
+Size: 1205164
+MD5sum: 85b94ad5897736629e73ce47d4d9f1c6
+SHA1: 097cb34cefca64f296c043c0b105dbf3bf2e3273
+SHA256: 1c6da223876a27fda535fcec6b5417f1201f43d2039f1b6e29c22c8aa55e89d0
+SHA512: dba283d59f2f376c057cdb64eeeb005ff67c531ca5146205ebafdbef918ba2ccfe8b7beb9ddbb17e4b4903b9b35ce2fb76c8d7658eb627b175c708fb6322affb
 Homepage: https://nguyenthanh1995.github.io/
 Description: Add helpful tools to your 3D touch menu!
 Name: 3DTools Cracked
 Author: smokin1337 <smokin1337@gmail.com>
 Icon: file:///Library/PreferenceBundles/3DTools.bundle/icon@2x.png
 Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-Depiction: https://nguyenthanh1995.github.io/package/git.shin.3dtools@1.0.5
+Depiction: https://chienlove.github.io/package/git.shin.3dtools@1.0.5
 
 Package: git.shin.BigClock
 Architecture: iphoneos-arm
@@ -26,17 +26,17 @@ Section: Widgets
 Maintainer: nguyenthanh1995 <thanhnguyennguyen1995@gmail.com>
 Depends: mobilesubstrate, com.matchstic.xenhtml, com.junesiphone.xeninfo
 Filename: ./debs/git.shin.BigClock@1.0.deb
-Size: 287604
-MD5sum: b57c1e8559e697da928fae228e18cab3
-SHA1: 7c4b8835996ca13f0d8d204b384661d2673430fd
-SHA256: b9539d21d8d58debcbe60c3a45a31a8c5e27800aba92585fb523e302aa64776a
-SHA512: a491ed8e726a1287822777652d17f4aa028b5e7c7d8c88af686ce0f86cc2b3bf1bb80391d11cb3f76b3dea24fb7c9e68eaf4fe8865f3f74baaf66affd6cfea3b
+Size: 575908
+MD5sum: 9009fa73b323303e7f21b1151ae6b002
+SHA1: 9a0b3115b49de8a8369ad87b1df7fc00d98231a1
+SHA256: 88e9af13e2e4b0f510d75ac87605bf787eb357891616f2392d4f333f733039bb
+SHA512: 7595d2cc22570ae2649ea4405dc9739ee199bdf5b516520c9ae7aad4ad15627bafc62feea74166fb9fa0f3e29e7f93f7201680de8fdd2571b5576f72144ac5dd
 Homepage: https://nguyenthanh1995.github.io/
 Description: Big Analog Clock HS&LS  Widget for XenHTML
 Name: BigClock Widget
 Author: serif61 <serif61@gmail.com>
 Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-Depiction: https://nguyenthanh1995.github.io/package/git.shin.BigClock@1.0
+Depiction: https://chienlove.github.io/package/git.shin.BigClock@1.0
 
 Package: git.shin.lpm
 Architecture: iphoneos-arm
@@ -45,17 +45,17 @@ Section: Tweaks
 Maintainer: nguyenthanh1995 <thanhnguyennguyen1995@gmail.com>
 Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, applist, ws.hbang.common
 Filename: ./debs/git.shin.lpm@1.1.3.deb
-Size: 386932
-MD5sum: c7f85a777617b7a12ff7c7c6d54390a5
-SHA1: 5211a6535c42cc9958f5c72b08a28bd0b51d9ce3
-SHA256: 555e5eb950bd8bc3997a87a3268a297efb76569262b7f4c2d7e52de7c594b817
-SHA512: 482c252ad289904dc363b4ff52ceab147414d2776c9b7a6c17c06221d5ecfe80d5ee14e6166a213f5937c5e87fc3a8f5739ef5ecfab906a3667a8ebc2ed9475c
+Size: 1877344
+MD5sum: 92a1c1b76c55be25d96fbff001741db3
+SHA1: 217e8f97ac74964c1689cc4e5589e81e5d566e3a
+SHA256: a171bd22f186808295b950af5197f6fb1c43194d7cfff495d533e4a7e3080dc8
+SHA512: d1e9bccca8a58ab1ceab232f1594abdd3070a30acd276c2423e0bd91c7f0326c1c1deb41c032ef9acbfa0c3d2b2c8ed4470bd93dd24f5e73d2bac9bc45ca2160
 Homepage: https://nguyenthanh1995.github.io/
 Description: Save Your battery life
 Name: RealLPM Cracked
 Author: DylanDuff
 Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-Depiction: https://nguyenthanh1995.github.io/package/git.shin.lpm@1.1.3
+Depiction: https://chienlove.github.io/package/git.shin.lpm@1.1.3
 
 Package: me.lightmann.transparentnotif
 Architecture: iphoneos-arm
@@ -66,11 +66,11 @@ Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 632
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/me.lightmann.transparentnotif@1.0.6.3-1.deb
-Size: 324740
-MD5sum: 8a3520327ad0030b75582e8243cb49c5
-SHA1: d5ab45c40b77e4608322e5118fd8e168f97ee585
-SHA256: 6da49493b0262164e61e566ad9f584280739e1792b013a755baecc5081e468b7
-SHA512: 325f02760e2bf003c0a32e06d244e727e3f3276c82591f01de80e7bf8b45d679d5d3e74ba30412cec2b9785497e9e606df02f30e10f2335e277e11c69be2cbe4
+Size: 355308
+MD5sum: 4683a2cae9d733d6263f2a1a82e8ab27
+SHA1: cd33d210f8b4d4e7fac751d617b39baa7a9c5807
+SHA256: 029209871ab3f31f5a46c7a69a604226a0a71b94bfa1272621563c324571b69f
+SHA512: 35d04a906cecc2fb55188959cc20d48b6973aefc589ca2a3564b923b8b7a1a94bd693e0638547e2a19c306a84710d65d9ae15913651472ad945b0487d0e324e7
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentnotifDp
 Description: Cleans up notification banners.
 Tag: purpose::extension, compatible::ios12, compatible::ios13
@@ -79,5 +79,22 @@ Sponsor: thebigboss.org <http://thebigboss.org>
 Author: Lightmann <lightmanns11@gmail.com>
 dev: lightmann
 Icon: file:///Library/PreferenceBundles/TransparentNotifPrefs.bundle/icon@2x.png
-Depiction: https://nguyenthanh1995.github.io/package/me.lightmann.transparentnotif@1.0.6.3-1
+Depiction: https://chienlove.github.io/package/me.lightmann.transparentnotif@1.0.6.3-1
+
+Package: net.storeios.sphere
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Chienlove <app@storeios.net>
+Depends: mobilesubstrate, firmware (>=12.0), ws.hbang.common (>= 1.11), preferenceloader
+Filename: ./debs/net.storeios.sphere@1.1.deb
+Size: 235234
+MD5sum: fb2d714d9dbdfc8e1c4e882375394033
+SHA1: 702ec597992ff912e36b853396d0e14aecef84d0
+SHA256: 113cce642d5bdb3ce5f0309ab43e71cb7af64330fe075ffd36b41ca3ffb2d40c
+SHA512: fdfdccbd8777ab8dfd8efc3c14ce726fccd09333f24ba05eb3de5952ecc7c55a5676df047ad14e124791761e5e31d4bb58c00167bf82ce3d8a9887b55dd51f7c
+Description: Đa nhiệm ở mức tốt nhất!
+Name: Sphere VH
+Author: SynnyG <synnyg.devjb@gmail.com>
+Depiction: https://chienlove.github.io/package/net.storeios.sphere@1.1
 

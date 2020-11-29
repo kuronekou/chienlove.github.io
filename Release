@@ -1,11 +1,11 @@
-Origin: Nguyen Thanh (shin-dev)
-Label: shin-chan (N.Thanh)
+Origin: Chienlove Repo
+Label: chienlove
 Suite: stable
 Version: 1.0
 Codename: ios
 Architecture: iphoneos-arm
 Components: main
-Description: Source Cydia Repo by Shin-chan (Nguyen Thanh)
+Description: Source Cydia Repo by Chienlove
 MD5Sum:
- 7945be2749a12d55b3742af7e21c2d0d 3735 Packages
- b5c3c0da84c75e52964f6b09ae7e1119 1754 Packages.bz2
+ 0380b04699c555f72f51ad317401c929 4460 Packages
+ ee23a50118cb7f997b146c640a74e916 2097 Packages.bz2
