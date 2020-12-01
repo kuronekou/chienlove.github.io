@@ -81,6 +81,24 @@ dev: lightmann
 Icon: file:///Library/PreferenceBundles/TransparentNotifPrefs.bundle/icon@2x.png
 Depiction: https://chienlove.github.io/package/me.lightmann.transparentnotif@1.0.6.3-1
 
+Package: tk.appcuios.facebookdarkmode
+Architecture: iphoneos-arm
+Version: 2.6.4
+Section: Tweaks
+Maintainer: FoxfortMobile
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker (>= 1.6.8), preferenceloader, com.foxfort.foxforttools (>= 1.1.1), com.foxfort.libfoxfortsplash
+Filename: ./debs/tk.appcuios.facebookdarkmode@2.6.4.deb
+Size: 3235652
+MD5sum: a261df3e6aaa7d43b8249e42347e54e8
+SHA1: 051f7b03e074d3a0dabc332fcbebdb4ca79b8217
+SHA256: c671972dfbce93497ffc9d287ce7354c99949f070161a7331026d1e102133e79
+SHA512: dcd2f01a0f2f2a32445894b3137cc4478c99c14c11640e3445e0b060e47e5b657b4693acd966c6c97d2789be46a186b63c0929e68e97602b3fa98f04ed1a6bac
+Description: Chế độ tối cho Facebook.
+Name: FacebookDarkMode
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/facebookdarkmodesettings.bundle/icon@3x.png
+Depiction: https://chienlove.github.io/package/tk.appcuios.facebookdarkmode@2.6.4
+
 Package: tk.appcuios.sphere
 Architecture: iphoneos-arm
 Version: 1.1.1
