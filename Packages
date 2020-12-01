@@ -153,6 +153,24 @@ Depiction: https://chienlove.github.io/package/tk.appcuios.tranzlo@1.0.1
 
 Package: tk.appcuios.tranzlo
 Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
+Filename: ./debs/tk.appcuios.tranzlo@1.0.2.deb
+Size: 832838
+MD5sum: 334906f9014dfda59093d9f308d27f57
+SHA1: cb4b5cf0c0a00714f518e22db5734b963b1f71b2
+SHA256: bce16b2f23850a885e01c3d2cbda3c47dd6e4e79fdb35b67f348e1bf004ae1b7
+SHA512: 482e5e825243ead10d0fa09a6ae20e274a3c5f703a00e5734804d62ee9decb3ab53d642012ae624f9e34813521bd8500bf091bf4d7eb37c2aa74188a76bb2f8f
+Description: A life savior translate tweak.
+Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
+Name: Tranzlo VH
+Author: MiRo
+Depiction: https://chienlove.github.io/package/tk.appcuios.tranzlo@1.0.2
+
+Package: tk.appcuios.tranzlo
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Chienlove
