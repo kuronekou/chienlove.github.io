@@ -1,3 +1,22 @@
+Package: appcuios.tk.facebookdarkmodecrack
+Architecture: iphoneos-arm
+Version: 2.1.13
+Section: Tweaks
+Maintainer: Chienlove
+Installed-Size: 1700
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./debs/appcuios.tk.facebookdarkmodecrack@2.1.13.deb
+Size: 579648
+MD5sum: d0b3879452570fe8e2cff271cd698070
+SHA1: 67e51af74712f4f720ba22273aa234c6366cd320
+SHA256: 392bc98752ce0c2e77ddf3aaa623687a5e2da3eb92cb53a0966bc265f4760276
+SHA512: 2a0f22b36dbe65b9d5712f3126208a0536cea5e12a2c552567cdef03e3811eeaf8ad97c15ec68db668a3b9cef29940b6d255fcf3f1c405c97e7b1e606664f413
+Description: Chế độ tối cho Facebook. Phiên bản này dành cho iOS 12.  Đã crack.
+Name: FacebookDarkMode Cracked
+Author: FoxfortMobile
+Sponsor: chienlove.github.io
+Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack@2.1.13
+
 Package: git.shin.3dtools
 Architecture: iphoneos-arm
 Version: 1.0.5
