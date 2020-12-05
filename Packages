@@ -17,6 +17,24 @@ Author: FoxfortMobile
 Sponsor: chienlove.github.io
 Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack@2.1.13
 
+Package: appcuios.tk.snoverlay
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate, preferenceloader, firmware (>= 7.0)
+Replaces: com.leftyfl1p.snoverlay
+Filename: ./debs/appcuios.tk.snoverlay@1.0.0.deb
+Size: 122748
+MD5sum: 62e11bd7a8fa2e7dceaae142a8fcec29
+SHA1: e582223c1441496881e43ee1e03b595ac2d252a1
+SHA256: 950cdc70ec36c944ee37c55b6a7c38702061839203ebf171cd253c5818683648
+SHA512: 64434ac807727a49ea9bb954faaadcf640c70335b28ea3b5d72f6beac9f9c9fa2abafe2e3f66f6c5e4525b8b8cd6e952e0424a3cf40352613428f1c88776ce0a
+Description: Snoverlay phủ những bông tuyết lên trên hình nền màn hình chính / màn hình khóa và các ứng dụng.
+Name: Snoverlay 2 VH
+Author: Ryan Nair
+Depiction: https://chienlove.github.io/package/appcuios.tk.snoverlay@1.0.0
+
 Package: git.shin.3dtools
 Architecture: iphoneos-arm
 Version: 1.0.5
