@@ -31,6 +31,7 @@ async function addDepiction(pathF, info) {
     fs.readdirSync(`${pathTmp}/DEBIAN`).forEach(item => {
       item = path.resolve(`${pathTmp}/DEBIAN/${item}`)
       if (path.basename(item) != "control") {
+console.log( item )
         fs.chmodSync(item, 775)
       }
     })
