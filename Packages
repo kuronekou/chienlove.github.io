@@ -170,6 +170,40 @@ Name: Sphere VH
 Author: SynnyG <synnyg.devjb@gmail.com>
 Depiction: https://chienlove.github.io/package/tk.appcuios.sphere@1.1
 
+Package: tk.appcuios.tiktokgod
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.5.0), firmware (>= 10)
+Filename: ./debs/tk.appcuios.tiktokgod@1.9.3.deb
+Size: 74430
+MD5sum: 4635e25175321b9c1eb6eaf300947627
+SHA1: 8a5f1a0dd45f2b65ff16f481dc0bd225b4279035
+SHA256: dd3a9fa2f7f61dbcc79a661783c4580f852cdab7ec1541777879fe834ea96481
+SHA512: cc25e3d38ef82d19a93959ca3d8eb6e4e26097fb0c7d54fc3b065b51b8c7833ec89a6753cc387e9d4b771300b5d2700264ab5905ed5935eddbf96814954289b6
+Description: The best tweak for TikTok app.
+ The best tweak for TikTok app.
+ Change log: https://github.com/haoict/tiktok-god/releases
+ . 
+ Features:
+ - Remove Ads
+ - Enable download for all videos
+ - Download without watermark
+ - Auto scroll to next video
+ - Change Region (may not work for iPad and some devices)
+ - Show progress bar (for fast forward or rewind video)
+ - Can hide UI (view video in full screen)
+ - Support iOS 10-13 & latest TikTok version
+ . 
+ I work very hard to make good, free and open source tweaks for everyone
+ If you want to support, you can buy me a coffee at https://www.paypal.me/haoict or https://www.patreon.com/haoict
+ . 
+ Thanks a ton
+Name: TikTok God
+Author: Hao Nguyen
+Depiction: https://chienlove.github.io/package/tk.appcuios.tiktokgod@1.9.3
+
 Package: tk.appcuios.tranzlo
 Architecture: iphoneos-arm
 Version: 1.0.1
