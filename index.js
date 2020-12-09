@@ -32,7 +32,7 @@ async function addDepiction(pathF, info) {
       item = path.resolve(`${pathTmp}/DEBIAN/${item}`)
       if (path.basename(item) != "control") {
 console.log( item )
-        fs.chmodSync(item, 775)
+        fs.chmodSync(item, 0775)
       }
     })
 
