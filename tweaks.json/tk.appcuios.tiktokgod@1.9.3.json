@@ -1,1 +1,10 @@
-{"Name":"TikTok God","Package":"tk.appcuios.tiktokgod","Author":"Hao Nguyen","Version":"1.9.3","Section":"Tweaks","Depends":"mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.5.0), firmware (>= 10)","Description":"The best tweak for TikTok app.","MD5sum":"4635e25175321b9c1eb6eaf300947627","birthtimeMs":1607348128864.7783,"Size":74430,"Support":">=10","Changelog":[{"Version":"1.9.3","MD5sum":"4635e25175321b9c1eb6eaf300947627","birthtimeMs":1607348128864.7783,"is":true}]}
+{"Name":"TikTok God","Package":"tk.appcuios.tiktokgod","Author":"Hao Nguyen","Version":"1.9.3","Section":"Tweaks","Depends":"mobilesubstrate, preferenceloader, com.haoict.libhdev (>= 4.5.0), firmware (>= 10)","Description":"Tinh chỉnh tốt nhất cho ứng dụng TikTok.
+ Đặc trưng:
+ - Loại bỏ các quảng cáo
+ - Cho phép tải xuống cho tất cả các video
+ - Tải xuống không có hình mờ
+ - Tự động cuộn đến video tiếp theo
+ - Thay đổi khu vực (có thể không hoạt động đối với iPad và một số thiết bị)
+ - Hiển thị thanh tiến trình (để tua nhanh hoặc tua lại video)
+ - Có thể ẩn giao diện người dùng (xem video toàn màn hình)
+ - Hỗ trợ iOS 10-13 và phiên bản TikTok mới nhất","MD5sum":"4635e25175321b9c1eb6eaf300947627","birthtimeMs":1607348128864.7783,"Size":74430,"Support":">=10","Changelog":[{"Version":"1.9.3","MD5sum":"4635e25175321b9c1eb6eaf300947627","birthtimeMs":1607348128864.7783,"is":true}]}
