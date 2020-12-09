@@ -1,3 +1,21 @@
+Package: appcuios.tk.facadecolor
+Architecture: iphoneos-arm
+Version: 2.0-2
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkcolourpicker, ws.hbang.common
+Filename: ./debs/appcuios.tk.facadecolor@2.0-2.deb
+Size: 368358
+MD5sum: 765fcde79577d510dfdd66ac0f69c594
+SHA1: f9fc6e742ee41d1ac3ad023c1bde793c62e5bbd4
+SHA256: 3b6f1c8fb37b8bed4c5308bcceb83440ec8dfeb00d031985cb61e3932dab8f6d
+SHA512: 24af5b5ad23ec137c25056b6862f7cdfc1de936930f91b19358616d6af83948e2dbe00fe40b40fa84bc188edb8a058ac9154011fc30bef7790b5751eedf8fca5
+Description: Tùy chỉnh màu sắc của giao diện iPhone, màu thanh trạng thái, tên ứng dụng, màu chấm trang.
+Name: Facade Color VH
+Author: ahmedmakls
+Icon: https://repo.packix.com/api/Packages/5ee295f4313450001b0d649b/icon/download?size=medium
+Depiction: https://chienlove.github.io/package/appcuios.tk.facadecolor@2.0-2
+
 Package: appcuios.tk.facebookdarkmodecrack
 Architecture: iphoneos-arm
 Version: 2.1.13
