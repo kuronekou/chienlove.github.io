@@ -35,6 +35,24 @@ Author: FoxfortMobile
 Sponsor: chienlove.github.io
 Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack@2.1.13
 
+Package: appcuios.tk.screenshotx
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Apps
+Maintainer: Chienlove
+Depends:
+Conflicts:
+Filename: ./debs/appcuios.tk.screenshotx@1.1.deb
+Size: 35090930
+MD5sum: 516f6f76346c16dab746ea4ae8007994
+SHA1: 21313c2bf2731a6073b3d12d1c6c6758c90caec9
+SHA256: 5fd63a041d2df2ddae4f0828164fb95772fe494d7efd8edf766f6fc0122a68f9
+SHA512: 1a5d0f0f3e982dedb1a1e97c81145b05a358ad0ccc8252e531e7996e91950d17d14200410c84fa3a2c44a946f899c605e695e1a87747e9a41d088439caf5b59c
+Description: Đặt ảnh chụp màn hình vào trong điện thoại.
+Name: ScreenshotX
+Author: JunesiPhone <junesgraphics@gmail.com>
+Depiction: https://chienlove.github.io/package/appcuios.tk.screenshotx@1.1
+
 Package: appcuios.tk.snoverlay
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -224,24 +242,6 @@ Depiction: https://chienlove.github.io/package/tk.appcuios.tiktokgod@1.9.3
 
 Package: tk.appcuios.tranzlo
 Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Chienlove
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
-Filename: ./debs/tk.appcuios.tranzlo@1.0.1.deb
-Size: 832608
-MD5sum: 2d4e0f9ab5f12f2c8e81e10ace699c46
-SHA1: 60128fffe3a6dd750dfcbab3c63dc296a82a5057
-SHA256: c08753dc487f87a214a61bebcdfcdbf1f33f9e5f0393be69bf39b984ae031666
-SHA512: cfde0ae4dc8e932fe38384b5e13a6237741957963e9065739539fd5b30485a726eb8dc1f85664cd592d0e1b94ecf901de78e4cba2ac9ed659026523cc6c40170
-Description: <b>Tranzlo</b> là một tinh chỉnh dịch có thể giúp cuộc sống của bạn trở nên dễ dàng khi trò chuyện với người nước ngoài!<br>Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào bạn muốn một cách dễ dàng mà không cần phải qua lại giữa các ứng dụng Dịch hoặc nhấn các nút bổ sung.<br><br>Tranzlo hỗ trợ hầu hết các ứng dụng mạng xã hội: <br>- WhatsApp<br>- Twitter<br>- Messenger<br>- Flex<br><br><b>Nhiều ứng dụng sắp ra mắt!</b><br><br>Định cấu hình các tùy chọn từ Cài đặt.<br><br><b>Tương thích với iOS13 & iOS14 và nó MIỄN PHÍ!</b><br><br><b>LƯU Ý: Tranzlo sử dụng API Google Dịch để thực hiện các bản dịch.</b><br><br><hr><b>Các tính năng chính:</b><br><b>Tin nhắn đi:</b><br>- Khả năng tự động dịch văn bản sau khi nhấn nút gửi.<br>- Khả năng được hỏi nếu bạn muốn dịch tin nhắn trước khi nó được gửi đi.<br>- Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Gửi.<br><br><b>Tin nhắn đến:</b><br>- Khả năng dịch nhanh tin nhắn bằng cách chạm vào nút dịch bên cạnh bong bóng trò chuyện.<br>- Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.<br>- Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Dịch.<br><br><b>Lựa chọn văn bản:</b><br>- Chỉ cần chọn văn bản mong muốn trên toàn hệ thống và danh sách các nút Dịch sẽ xuất hiện để dịch sang các ngôn ngữ yêu thích của bạn.<br>- Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.<br>- Khả năng thêm tối đa 10 nút dịch, mỗi nút dịch sang các ngôn ngữ khác nhau.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Name: Tranzlo VH
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chienlove.github.io/package/tk.appcuios.tranzlo@1.0.1
-
-Package: tk.appcuios.tranzlo
-Architecture: iphoneos-arm
 Version: 1.0.2
 Section: Tweaks
 Maintainer: Chienlove
@@ -257,22 +257,4 @@ Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
 Name: Tranzlo VH
 Author: MiRo
 Depiction: https://chienlove.github.io/package/tk.appcuios.tranzlo@1.0.2
-
-Package: tk.appcuios.tranzlo
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Chienlove
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
-Filename: ./debs/tk.appcuios.tranzlo@1.0.deb
-Size: 828136
-MD5sum: 9425b6c146c82b8d2c1365f449befc53
-SHA1: f7edd4f2ec761378f5a3bbf11f50f3f0e21fe5f3
-SHA256: 4b2cb1280412fa6b226b5150cefa9831c10918d98d93431ec18d740038c028ca
-SHA512: 5ce5add18cf9b44a7fed68c7b1d8b45c71150a4c3cbf3cec0d2220a2e13aee29afcf837f3278d3318e5268b8d3f20e5320954ab580ab41a39f5ba01fac3520f9
-Description: <b>Tranzlo</b> là một tinh chỉnh dịch có thể giúp cuộc sống của bạn trở nên dễ dàng khi trò chuyện với người nước ngoài!<br>Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào bạn muốn một cách dễ dàng mà không cần phải qua lại giữa các ứng dụng Dịch hoặc nhấn các nút bổ sung.<br><br>Tranzlo hỗ trợ hầu hết các ứng dụng mạng xã hội: <br>- WhatsApp<br>- Twitter<br>- Messenger<br>- Flex<br><br><b>Nhiều ứng dụng sắp ra mắt!</b><br><br>Định cấu hình các tùy chọn từ Cài đặt.<br><br><b>Tương thích với iOS13 & iOS14 và nó MIỄN PHÍ!</b><br><br><b>LƯU Ý: Tranzlo sử dụng API Google Dịch để thực hiện các bản dịch.</b><br><br><hr><b>Các tính năng chính:</b><br><b>Tin nhắn đi:</b><br>- Khả năng tự động dịch văn bản sau khi nhấn nút gửi.<br>- Khả năng được hỏi nếu bạn muốn dịch tin nhắn trước khi nó được gửi đi.<br>- Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Gửi.<br><br><b>Tin nhắn đến:</b><br>- Khả năng dịch nhanh tin nhắn bằng cách chạm vào nút dịch bên cạnh bong bóng trò chuyện.<br>- Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.<br>- Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Dịch.<br><br><b>Lựa chọn văn bản:</b><br>- Chỉ cần chọn văn bản mong muốn trên toàn hệ thống và danh sách các nút Dịch sẽ xuất hiện để dịch sang các ngôn ngữ yêu thích của bạn.<br>- Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn nâng ly hoặc dưới dạng Cảnh báo.<br>- Khả năng thêm tối đa 10 nút dịch, mỗi nút dịch sang các ngôn ngữ khác nhau.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Name: Tranzlo
-Author: MiRO <tweaks_support@miro92.com>
-Depiction: https://chienlove.github.io/package/tk.appcuios.tranzlo@1.0
 
