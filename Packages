@@ -78,12 +78,12 @@ Section: Tweaks
 Maintainer: Chienlove
 Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
 Filename: ./debs/appcuios.tk.tranzlo@2.3.deb
-Size: 1736478
-MD5sum: c051d34757a04b195b8197295ef7aba9
-SHA1: 75ed24cfbfb9a09e964e55e40af7f40041999723
-SHA256: dc269a999be65e2d46b09f46a7e004409287da2fef1269fd6ea631c07c64be2c
-SHA512: 77cc67fbd80c1591c6ec925fd9d55a0da10e3eb4ec447774f252d6f69dd7d44d68b039b12dceb89bae4883198671cd70e8864c558a1938c8c59237fc569d79ff
-Description: A life savior translate tweak.
+Size: 1737318
+MD5sum: f5163b07acf21f10fab25812f8ffa501
+SHA1: 87154f6855cdf1ffccce982e3cb7a82cf9c6815b
+SHA256: ddd006e3e6599b9e8d70d4150d432301aa5beea1f68a0b4b3c01d7c050153486
+SHA512: a7c2995a91535fd21b4e072f30bdec22066351ff981ccc082ed76af8d7fb0e155006a002d74d32de5114721a81508bdcabd4642ca677918ae54b6426a262f924
+Description: Tranzlo là một tinh chỉnh dịch có thể giúp cuộc sống của bạn trở nên dễ dàng khi trò chuyện với người nước ngoài!<br>Nó có thể cho phép bạn trò chuyện bằng bất kỳ ngôn ngữ nào bạn muốn một cách dễ dàng mà không cần phải qua lại giữa các ứng dụng Dịch hoặc nhấn các nút bổ sung.<br><br>Tranzlo hỗ trợ hầu hết các ứng dụng mạng xã hội: <br>- WhatsApp<br>- Twitter<br>- Messenger<br>- Flex<br><br><b>Nhiều ứng dụng sắp ra mắt!</b><br><br>Định cấu hình các tùy chọn từ Cài đặt.<br><br><b>Tương thích với iOS13 & iOS14 và nó MIỄN PHÍ!</b><br><br><b>LƯU Ý: Tranzlo sử dụng API Google Dịch để thực hiện các bản dịch.</b><br><br><hr><b>Các tính năng chính:</b><br><b>Tin nhắn đi:</b><br>- Khả năng tự động dịch văn bản sau khi nhấn nút gửi.<br>- Khả năng được hỏi nếu bạn muốn dịch tin nhắn trước khi nó được gửi đi.<br>- Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Gửi.<br><br><b>Tin nhắn đến:</b><br>- Khả năng dịch nhanh tin nhắn bằng cách chạm vào nút dịch bên cạnh bong bóng trò chuyện.<br>- Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn biểu ngữ hoặc dưới dạng Cảnh báo.<br>- Khả năng nhanh chóng thay đổi cài đặt bằng cách nhấn và giữ nút Dịch.<br><br><b>Lựa chọn văn bản:</b><br>- Chỉ cần chọn văn bản mong muốn trên toàn hệ thống và danh sách các nút Dịch sẽ xuất hiện để dịch sang các ngôn ngữ yêu thích của bạn.<br>- Hai cách để hiển thị kết quả dịch: dưới dạng Tin nhắn biểu ngữ hoặc dưới dạng Cảnh báo.<br>- Khả năng thêm tối đa 10 nút dịch, mỗi nút dịch sang các ngôn ngữ khác nhau.
 Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
 Name: Tranzlo VH
 Author: MiRO <tweaks_support@miro92.com>
