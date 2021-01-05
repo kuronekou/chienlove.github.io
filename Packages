@@ -71,88 +71,24 @@ Name: Snoverlay 2 VH
 Author: Ryan Nair
 Depiction: https://chienlove.github.io/package/appcuios.tk.snoverlay@1.0.0
 
-Package: git.shin.3dtools
+Package: appcuios.tk.tranzlo
 Architecture: iphoneos-arm
-Version: 1.0.5
+Version: 2.3
 Section: Tweaks
-Maintainer: nguyenthanh1995 <thanhnguyennguyen1995@gmail.com>
-Depends: mobilesubstrate
-Conflicts: me.pulandres.appaze
-Filename: ./debs/git.shin.3dtools@1.0.5.deb
-Size: 1205164
-MD5sum: 85b94ad5897736629e73ce47d4d9f1c6
-SHA1: 097cb34cefca64f296c043c0b105dbf3bf2e3273
-SHA256: 1c6da223876a27fda535fcec6b5417f1201f43d2039f1b6e29c22c8aa55e89d0
-SHA512: dba283d59f2f376c057cdb64eeeb005ff67c531ca5146205ebafdbef918ba2ccfe8b7beb9ddbb17e4b4903b9b35ce2fb76c8d7658eb627b175c708fb6322affb
-Homepage: https://nguyenthanh1995.github.io/
-Description: Add helpful tools to your 3D touch menu!
-Name: 3DTools Cracked
-Author: smokin1337 <smokin1337@gmail.com>
-Icon: file:///Library/PreferenceBundles/3DTools.bundle/icon@2x.png
-Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-Depiction: https://chienlove.github.io/package/git.shin.3dtools@1.0.5
-
-Package: git.shin.BigClock
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Widgets
-Maintainer: nguyenthanh1995 <thanhnguyennguyen1995@gmail.com>
-Depends: mobilesubstrate, com.matchstic.xenhtml, com.junesiphone.xeninfo
-Filename: ./debs/git.shin.BigClock@1.0.deb
-Size: 575908
-MD5sum: 9009fa73b323303e7f21b1151ae6b002
-SHA1: 9a0b3115b49de8a8369ad87b1df7fc00d98231a1
-SHA256: 88e9af13e2e4b0f510d75ac87605bf787eb357891616f2392d4f333f733039bb
-SHA512: 7595d2cc22570ae2649ea4405dc9739ee199bdf5b516520c9ae7aad4ad15627bafc62feea74166fb9fa0f3e29e7f93f7201680de8fdd2571b5576f72144ac5dd
-Homepage: https://nguyenthanh1995.github.io/
-Description: Big Analog Clock HS&LS  Widget for XenHTML
-Name: BigClock Widget
-Author: serif61 <serif61@gmail.com>
-Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-Depiction: https://chienlove.github.io/package/git.shin.BigClock@1.0
-
-Package: git.shin.lpm
-Architecture: iphoneos-arm
-Version: 1.1.3
-Section: Tweaks
-Maintainer: nguyenthanh1995 <thanhnguyennguyen1995@gmail.com>
-Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, applist, ws.hbang.common
-Filename: ./debs/git.shin.lpm@1.1.3.deb
-Size: 1877344
-MD5sum: 92a1c1b76c55be25d96fbff001741db3
-SHA1: 217e8f97ac74964c1689cc4e5589e81e5d566e3a
-SHA256: a171bd22f186808295b950af5197f6fb1c43194d7cfff495d533e4a7e3080dc8
-SHA512: d1e9bccca8a58ab1ceab232f1594abdd3070a30acd276c2423e0bd91c7f0326c1c1deb41c032ef9acbfa0c3d2b2c8ed4470bd93dd24f5e73d2bac9bc45ca2160
-Homepage: https://nguyenthanh1995.github.io/
-Description: Save Your battery life
-Name: RealLPM Cracked
-Author: DylanDuff
-Sponsor: nguyenthanh1995 <https://nguyenthanh1995.github.io>
-Depiction: https://chienlove.github.io/package/git.shin.lpm@1.1.3
-
-Package: me.lightmann.transparentnotif
-Architecture: iphoneos-arm
-Version: 1.0.6.3-1
-Priority: optional
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 632
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/me.lightmann.transparentnotif@1.0.6.3-1.deb
-Size: 355308
-MD5sum: 4683a2cae9d733d6263f2a1a82e8ab27
-SHA1: cd33d210f8b4d4e7fac751d617b39baa7a9c5807
-SHA256: 029209871ab3f31f5a46c7a69a604226a0a71b94bfa1272621563c324571b69f
-SHA512: 35d04a906cecc2fb55188959cc20d48b6973aefc589ca2a3564b923b8b7a1a94bd693e0638547e2a19c306a84710d65d9ae15913651472ad945b0487d0e324e7
-Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=transparentnotifDp
-Description: Cleans up notification banners.
-Tag: purpose::extension, compatible::ios12, compatible::ios13
-Name: TransparentNotif
-Sponsor: thebigboss.org <http://thebigboss.org>
-Author: Lightmann <lightmanns11@gmail.com>
-dev: lightmann
-Icon: file:///Library/PreferenceBundles/TransparentNotifPrefs.bundle/icon@2x.png
-Depiction: https://chienlove.github.io/package/me.lightmann.transparentnotif@1.0.6.3-1
+Maintainer: Chienlove
+Depends: firmware (>=12.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.creaturesurvive.libcscolorpicker
+Filename: ./debs/appcuios.tk.tranzlo@2.3.deb
+Size: 1736478
+MD5sum: c051d34757a04b195b8197295ef7aba9
+SHA1: 75ed24cfbfb9a09e964e55e40af7f40041999723
+SHA256: dc269a999be65e2d46b09f46a7e004409287da2fef1269fd6ea631c07c64be2c
+SHA512: 77cc67fbd80c1591c6ec925fd9d55a0da10e3eb4ec447774f252d6f69dd7d44d68b039b12dceb89bae4883198671cd70e8864c558a1938c8c59237fc569d79ff
+Description: A life savior translate tweak.
+Tag: purpose::extension, compatible_min::ios12, compatible_max::ios14
+Name: Tranzlo VH
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.tranzlo@2.3
 
 Package: tk.appcuios.facebookdarkmode
 Architecture: iphoneos-arm
@@ -239,22 +175,4 @@ Description: The best tweak for TikTok app.
 Name: TikTok God
 Author: Hao Nguyen
 Depiction: https://chienlove.github.io/package/tk.appcuios.tiktokgod@1.9.3
-
-Package: tk.appcuios.tranzlo
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Chienlove
-Depends: firmware (>=13.0), mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.11), com.rpetrich.rocketbootstrap
-Filename: ./debs/tk.appcuios.tranzlo@1.0.2.deb
-Size: 832838
-MD5sum: 334906f9014dfda59093d9f308d27f57
-SHA1: cb4b5cf0c0a00714f518e22db5734b963b1f71b2
-SHA256: bce16b2f23850a885e01c3d2cbda3c47dd6e4e79fdb35b67f348e1bf004ae1b7
-SHA512: 482e5e825243ead10d0fa09a6ae20e274a3c5f703a00e5734804d62ee9decb3ab53d642012ae624f9e34813521bd8500bf091bf4d7eb37c2aa74188a76bb2f8f
-Description: A life savior translate tweak.
-Tag: purpose::extension, compatible_min::ios13, compatible_max::ios14
-Name: Tranzlo VH
-Author: MiRo
-Depiction: https://chienlove.github.io/package/tk.appcuios.tranzlo@1.0.2
 
