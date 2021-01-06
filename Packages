@@ -59,11 +59,11 @@ Section: Tweaks
 Maintainer: Chienlove
 Depends: mobilesubstrate,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0),org.thebigboss.libcolorpicker
 Filename: ./debs/appcuios.tk.fuji@1.0.1.deb
-Size: 1077248
-MD5sum: 94562c3b6d96858b01fc87905f35ba72
-SHA1: 84f8877c29f4763020713710aabc33514db78a9a
-SHA256: d737e0e7fb7e30665faa416006344305253363e3739473875c35f4c542c1c705
-SHA512: 4fd6b6ab0b72eeccef66169725ef2faac8bce98c306c8a08eaf0d7eafb531cad979a09cd66d183b0dc58756f87b0d172737e41dcb7b5e654530094956e54d61b
+Size: 1077580
+MD5sum: 39b94d0a53e7f1668f050af0866617c9
+SHA1: b82d04b9bc49d51bef1ca1952c46bad424ad6501
+SHA256: 9ad9587f22488dbcd4da343edb9ffb34489da95fd67e2eb53c0ee39308f16f37
+SHA512: 98498805b257748e690e66e9ad8141a759cd711a258e93593e68de9775a2a2a23652042c059eb11959eb0b7d9b20baed11326dcf6e2df75901ace4dabfcafb5d
 Description: Kích hoạt đa nhiệm và chạy nhiều ứng dụng cùng một lúc trong các cửa sổ nhỏ. Tương thích iOS 13 - 14.
 Name: Fuji VH
 Author: Dcsyhi <dcsyhi1998@gmail.com>
