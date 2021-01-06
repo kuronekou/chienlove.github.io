@@ -52,6 +52,24 @@ Author: FoxfortMobile
 Sponsor: chienlove.github.io
 Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack@2.1.13
 
+Package: appcuios.tk.fuji
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0)
+Filename: ./debs/appcuios.tk.fuji@1.0.deb
+Size: 1051612
+MD5sum: 7991d781395351c917e06f55970ad9db
+SHA1: e5eb974debcdee2fd27804ecf561ecff45d98884
+SHA256: 9fdae3e8863ff4d0bd7e936763ec158213a3491321bbb9d58979743bb6d593e7
+SHA512: c7b41742b5b234240e35d0d51af330d4ccabc73a5165e64710020465a25aa1d4cce397421301d59b700986eebeea0e61800e6ffd855ea38be0cce713c2097bb6
+Description: Kích hoạt đa nhiệm và chạy nhiều ứng dụng cùng một lúc trong các cửa sổ nhỏ. Tương thích iOS 13 - 14.
+Name: Fuji VH
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+icon: file:///Library/PreferenceBundles/FujiApp.bundle/icon.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.fuji@1.0
+
 Package: appcuios.tk.screenshotx
 Architecture: iphoneos-arm
 Version: 1.1
