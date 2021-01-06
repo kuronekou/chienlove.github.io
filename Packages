@@ -54,6 +54,24 @@ Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack
 
 Package: appcuios.tk.fuji
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate,ws.hbang.common,com.rpetrich.rocketbootstrap,firmware (>=13.0),org.thebigboss.libcolorpicker
+Filename: ./debs/appcuios.tk.fuji@1.0.1.deb
+Size: 1077248
+MD5sum: 94562c3b6d96858b01fc87905f35ba72
+SHA1: 84f8877c29f4763020713710aabc33514db78a9a
+SHA256: d737e0e7fb7e30665faa416006344305253363e3739473875c35f4c542c1c705
+SHA512: 4fd6b6ab0b72eeccef66169725ef2faac8bce98c306c8a08eaf0d7eafb531cad979a09cd66d183b0dc58756f87b0d172737e41dcb7b5e654530094956e54d61b
+Description: Kích hoạt đa nhiệm và chạy nhiều ứng dụng cùng một lúc trong các cửa sổ nhỏ. Tương thích iOS 13 - 14.
+Name: Fuji VH
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+icon: file:///Library/PreferenceBundles/FujiApp.bundle/icon.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.fuji@1.0.1
+
+Package: appcuios.tk.fuji
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Chienlove
