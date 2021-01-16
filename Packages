@@ -88,6 +88,27 @@ Author: Dcsyhi <dcsyhi1998@gmail.com>
 icon: file:///Library/PreferenceBundles/FujiApp.bundle/icon.png
 Depiction: https://chienlove.github.io/package/appcuios.tk.fuji@1.0
 
+Package: appcuios.tk.icontweak
+Architecture: iphoneos-arm
+Version: 1.0.9
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.ichitaso.badgecleaner2, com.flex2areo.apptools, com.rpetrich.iconrenamer, org.ioshack.icontool
+Replaces: com.ichitaso.icontweak
+Filename: ./debs/appcuios.tk.icontweak@1.0.9.deb
+Size: 170870
+MD5sum: aeac7b87fefd0143e63def0b78ee511c
+SHA1: 9392e87eeac9dd21bbe473cfe4d60432435b40d8
+SHA256: 67dbe388f10d79c03d6d82ece73107ea0e915c8c90bb75f478d89396d8ed0659
+SHA512: eb86794d116cb5abd6e7649a5904c6933948398c38b31dcfaec9d968d4090c6ed9ee852d41aceb57e434a3d29089ea8f7d26467a03fda50ffdc89f576714fd1b
+Description: <h2>Những đặc điểm chính</h2>Bằng cách vuốt biểu tượng trên SpringBoard (hoặc chạm vào chế độ Chỉnh sửa/menu Force Touch), bạn có thể:<ul><li>Mở trong Filza [Ứng dụng]</li><li>Mở trong Filza [Dữ liệu]</li><li>Đổi tên ứng dụng</li><li>Xóa huy hiệu</li><li>Đặt huy hiệu tùy chỉnh</li><li>Xóa bộ nhớ đệm</li><li>Sao lưu dữ liệu</li><li>Khôi phục dữ liệu</li><li>Xóa dữ liệu sao lưu</li><li>Xóa tất cả dữ liệu người dùng</li><li>Sao chép BundleID</li><li>Sao chép lược đồ URL</li><li>Thông báo tắt tiếng</li><li>Mở ứng dụng</li><li>Huy hiệu tùy chỉnh phải được bật trong thông báo Cài đặt.</li></ul><br><br><h2>Tuỳ chọn</h2><ul><li>Hiển thị kích thước bộ nhớ cache của ứng dụng</li><li>Sử dụng huy hiệu văn bản</li><li>Ẩn các Nhãn Biểu tượng</li><br><b><p>Xóa bộ nhớ đệm hiển thị kích thước của các tệp bộ nhớ cache.<br>Phù hiệu văn bản không hiển thị nhiều chuỗi.<br>Bạn có thể cài đặt "BadgeCleaner2" từ kho lưu trữ chỉ vận hành các huy hiệu khi dùng thử.<br>BadgeCleaner2 không hỗ trợ iOS 13<br>https://cydia.ichitaso.com</p></b><br><br><h2>Tài liệu tham khảo</h2><ol><li>Nếu nó không hoạt động, hãy tắt IconTweak trong iClenaer Pro, sau đó bật nó lên và respring.</li><li>Đã thêm "Sử dụng Menu cảm ứng lực" và "Hiển thị menu trong chế độ chỉnh sửa" để tương thích với SnowBoard và Zenith.</li><li>Dữ liệu BackUp được lưu trong thư mục "/ var/mobile/Documents/IconTweak/".</li><li>Nếu bạn muốn thay đổi tên của dữ liệu BackUp, không sử dụng dấu cách và chỉ sử dụng chữ và số. (Dấu gạch nối-, khả dụng. Dấu gạch dưới _ hoặc dấu chấm không khả dụng.)</li></ol>
+Tag: purpose::extension, compatible::ios11, compatible::ios12, compatible::ios13
+Name: IconTweak Cracked
+Author: ichitaso <willfeeltips+ict@gmail.com>
+Icon: https://repo.packix.com/api/Packages/5db9690113f322001b4347b9/icon/download?size=medium
+Depiction: https://chienlove.github.io/package/appcuios.tk.icontweak@1.0.9
+
 Package: appcuios.tk.lunartime
 Architecture: iphoneos-arm
 Version: 0.1
