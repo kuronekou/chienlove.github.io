@@ -1,3 +1,21 @@
+Package: appcuios.tk.aperturize
+Architecture: iphoneos-arm
+Version: 2.1.5
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware(>=11.0), mobilesubstrate, preferenceloader, com.foxfort.foxforttools
+Conflicts: com.foxfort.aperturize
+Filename: ./debs/appcuios.tk.aperturize@2.1.5.deb
+Size: 236464
+MD5sum: b54a19b04491f23643519af64eca319c
+SHA1: aff42c9714775d19a69bddc4f0ceda83a8f55576
+SHA256: 61b1bb5f616fc0592bbe9b563d9346bf8c6d67b935c115de5514afb2f7a7f711
+SHA512: 6decba874bfa171db731f5f70eeac897a8e625460bb73fd56ad33600b036b4879bfdf9d8b0bd35fd972f65f31d84d07e6491d48662e077d63d54058b36b0fa0a
+Description: YÊU CẦU ĐIỆN THOẠI CAMERA KÉP.  KHÔNG TƯƠNG THÍCH VỚI THIẾT BỊ A12 THIẾT BỊ A12 ĐÃ ĐƯỢC LẬP TRONG KIỂM SOÁT CHẾT<br><br>Bạn có bỏ lỡ việc sở hữu một chiếc iPhone Xr/Xs đơn giản chỉ vì chúng có thể điều chỉnh độ mờ tuyệt đẹp được gọi là bokeh trên ảnh chụp ở chế độ chân dung?  Không cần phải chi 800 đô la để có được chúng!<br>Aperturize mang đến độ sâu trường ảnh có thể điều chỉnh được cho các bức ảnh ở chế độ chân dung cho điện thoại có camera kép.  Bạn có thể kiểm soát mức độ mờ đơn giản bằng cách sử dụng thanh trượt trong ứng dụng ảnh.  Điều này hoạt động từ iOS 11.0 trở lên.<br> Thật tuyệt khi tôi có thể chọn mức độ mờ phù hợp cho các bức ảnh của mình!  Nhưng xin chờ chút nữa!  Điều gì sẽ xảy ra nếu bạn có thể thay đổi cường độ mờ ngay cả trước khi chụp?<br> Bạn có thể làm điều đó trong Aperturize, nó mở khóa kiểm soát độ mờ có thể điều chỉnh theo thời gian thực trong máy ảnh chế độ chân dung.  TÍNH NĂNG NÀY CHỈ HOẠT ĐỘNG TRÊN iOS 12.0+.<br> Trên iOS 13, bạn cũng nhận được các tính năng sau: <br>- Bộ lọc đơn âm chính <br>-Kiểm soát cường độ ánh sáng khi chỉnh sửa ảnh chân dung<br><b>Câu hỏi thường gặp:</b> <br>Tại sao tôi không thấy thanh trượt độ sâu khi chỉnh sửa ảnh?<br> Thanh trượt chỉ xuất hiện cho ảnh chụp ở chế độ chân dung gốc.  Ảnh gốc sẽ có nút chuyển đổi chế độ dọc ở trên cùng.<br> Tại sao tôi không nhận được thanh trượt làm mờ camera thời gian thực? <br>Tính năng này chỉ hoạt động trên các thiết bị có camera kép và nó cũng yêu cầu iOS 12. Khi ở chế độ dọc trong máy ảnh, nút f sẽ xuất hiện ở trên cùng bên phải.  Thao tác này sẽ bật thanh trượt độ sâu.<br> Tại sao tôi không nhận được điều khiển ánh sáng chân dung trên iPhone 7+?<br> Tinh chỉnh này chỉ để kiểm soát độ sâu.  Nếu bạn cần ánh sáng chân dung, hãy sử dụng lightson hoặc bộ hỗ trợ chiếu sáng chân dung. <br>Sự khác biệt giữa thanh trượt độ sâu Aperturize và Focos là gì?<br> Khi bạn chỉnh sửa ảnh bằng Focos, ảnh sẽ mất tất cả siêu dữ liệu về độ sâu và không thể hoàn nguyên.  Nhưng với Aperturize, bạn có thể điều chỉnh lại độ mờ bao nhiêu lần tùy thích và hoàn nguyên một cách dễ dàng.
+Name: Aperturize VH Cracked
+Author: FoxfortMobile
+Depiction: https://chienlove.github.io/package/appcuios.tk.aperturize@2.1.5
+
 Package: appcuios.tk.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
@@ -51,6 +69,24 @@ Name: FacebookDarkMode Cracked
 Author: FoxfortMobile
 Sponsor: chienlove.github.io
 Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack@2.1.13
+
+Package: appcuios.tk.foxforthack
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware(>=11.0), mobilesubstrate
+Conflicts: ru.rejail.foxforthack, com.pulandres.foxforthack
+Filename: ./debs/appcuios.tk.foxforthack@0.0.3.deb
+Size: 69922
+MD5sum: b0567d265532de6315b5bf41ea6629a1
+SHA1: d254613661d5e09a69ce678922cace03d0db6cd6
+SHA256: d62728c033f242986857e5b27dd6624d388c36ddd659e2a0b6c03e9ca246fccf
+SHA512: da4494afda8e51966ce163ef2157bdb3917a0073f09339909943ff1bd1e27dc388ee947294384f584e1cfe37ef5ea5eeb9b664b874a118913a881a402260e576
+Description: Trợ lý hack cho các chỉnh sửa Foxfort.
+Name: Foxfort Hack
+Author: Sileoturkiye
+Depiction: https://chienlove.github.io/package/appcuios.tk.foxforthack@0.0.3
 
 Package: appcuios.tk.fuji
 Architecture: iphoneos-arm
