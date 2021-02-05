@@ -88,6 +88,25 @@ Name: Foxfort Hack
 Author: Sileoturkiye
 Depiction: https://chienlove.github.io/package/appcuios.tk.foxforthack@0.0.3
 
+Package: appcuios.tk.foxforttools
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: Chienlove
+Pre-Depends: appcuios.tk.foxforthack
+Depends: mobilesubstrate
+Conflicts: com.foxfort.foxforttools
+Filename: ./debs/appcuios.tk.foxforttools@1.0.7.deb
+Size: 233030
+MD5sum: 5df19e7bd41973fe8ebc06c77a549f9e
+SHA1: 43c272f29415c5c768e73e9c390771638114f729
+SHA256: 3c768cb0e16c1cf366a96ba0b04ec91e44283f3d03f5f8fc2b224f932ea5ee7e
+SHA512: cbe7cbf30f5ca99db12ce2ce6c18efee92712a3aec93d76196a1240ebecb1f41c099a5761678d1a133062e0960168cd163a45553b830c494bbef9229c80b39d6
+Description: Công cụ tiện ích cho các tinh chỉnh Foxfort.
+Name: FoxFort Tools
+Author: FoxfortMobile
+Depiction: https://chienlove.github.io/package/appcuios.tk.foxforttools@1.0.7
+
 Package: appcuios.tk.fuji
 Architecture: iphoneos-arm
 Version: 1.0.1
