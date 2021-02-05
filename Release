@@ -7,5 +7,5 @@ Architecture: iphoneos-arm
 Components: main
 Description: Source Cydia Repo by Chienlove
 MD5Sum:
- 6d372e48885d5f509c4eb92ca97e15d3 28107 Packages
- 7cebc2b963c2e513a4108450d5ca2d59 9139 Packages.bz2
+ cea76a08892b1c99da8c7a13c87b259b 28143 Packages
+ 13e357b994cde4ac7ebdd7bf11929523 9129 Packages.bz2
