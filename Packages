@@ -1,21 +1,3 @@
-Package: appcuios.tk.aperturize
-Architecture: iphoneos-arm
-Version: 2.1.5
-Section: Tweaks
-Maintainer: Chienlove
-Depends: firmware(>=11.0), mobilesubstrate, preferenceloader, appcuios.tk.foxforttools, appcuios.tk.foxforthack
-Conflicts: com.foxfort.aperturize
-Filename: ./debs/appcuios.tk.aperturize@2.1.5.deb
-Size: 236476
-MD5sum: a255001043d34ad763e96f545bf9776a
-SHA1: 0fa27cebf7261e339ce8f4e477b47dd7e09e9cdd
-SHA256: 884834b03e94a6e11928611955d31bddf6e6cd6e82c2c15bfd87a98df9b253e5
-SHA512: 83f3fceffb2e38ef57658ebf776924233c4651315ac18833b7010de3150cb1e250e84aaff7f3a5e353662f6603f835a2e62a83f72725dd5a565c41033e07b0a9
-Description: YÊU CẦU ĐIỆN THOẠI CAMERA KÉP.  KHÔNG TƯƠNG THÍCH VỚI THIẾT BỊ A12 THIẾT BỊ A12 ĐÃ ĐƯỢC LẬP TRONG KIỂM SOÁT CHẾT<br><br>Bạn có bỏ lỡ việc sở hữu một chiếc iPhone Xr/Xs đơn giản chỉ vì chúng có thể điều chỉnh độ mờ tuyệt đẹp được gọi là bokeh trên ảnh chụp ở chế độ chân dung?  Không cần phải chi 800 đô la để có được chúng!<br>Aperturize mang đến độ sâu trường ảnh có thể điều chỉnh được cho các bức ảnh ở chế độ chân dung cho điện thoại có camera kép.  Bạn có thể kiểm soát mức độ mờ đơn giản bằng cách sử dụng thanh trượt trong ứng dụng ảnh.  Điều này hoạt động từ iOS 11.0 trở lên.<br> Thật tuyệt khi tôi có thể chọn mức độ mờ phù hợp cho các bức ảnh của mình!  Nhưng xin chờ chút nữa!  Điều gì sẽ xảy ra nếu bạn có thể thay đổi cường độ mờ ngay cả trước khi chụp?<br> Bạn có thể làm điều đó trong Aperturize, nó mở khóa kiểm soát độ mờ có thể điều chỉnh theo thời gian thực trong máy ảnh chế độ chân dung.  TÍNH NĂNG NÀY CHỈ HOẠT ĐỘNG TRÊN iOS 12.0+.<br> - Trên iOS 13, bạn cũng nhận được các tính năng sau: <br>- Bộ lọc đơn âm chính <br>- Kiểm soát cường độ ánh sáng khi chỉnh sửa ảnh chân dung<br><br><b>Câu hỏi thường gặp:</b><br><br> Tại sao tôi không thấy thanh trượt độ sâu khi chỉnh sửa ảnh?<br> Thanh trượt chỉ xuất hiện cho ảnh chụp ở chế độ chân dung gốc.  Ảnh gốc sẽ có nút chuyển đổi chế độ dọc ở trên cùng.<br> Tại sao tôi không nhận được thanh trượt làm mờ camera thời gian thực? <br>Tính năng này chỉ hoạt động trên các thiết bị có camera kép và nó cũng yêu cầu iOS 12. Khi ở chế độ dọc trong máy ảnh, nút f sẽ xuất hiện ở trên cùng bên phải.  Thao tác này sẽ bật thanh trượt độ sâu.<br> Tại sao tôi không nhận được điều khiển ánh sáng chân dung trên iPhone 7+?<br> Tinh chỉnh này chỉ để kiểm soát độ sâu.  Nếu bạn cần ánh sáng chân dung, hãy sử dụng lightson hoặc bộ hỗ trợ chiếu sáng chân dung. <br>Sự khác biệt giữa thanh trượt độ sâu Aperturize và Focos là gì?<br> Khi bạn chỉnh sửa ảnh bằng Focos, ảnh sẽ mất tất cả siêu dữ liệu về độ sâu và không thể hoàn nguyên.  Nhưng với Aperturize, bạn có thể điều chỉnh lại độ mờ bao nhiêu lần tùy thích và hoàn nguyên một cách dễ dàng.
-Name: Aperturize VH Cracked
-Author: FoxfortMobile
-Depiction: https://chienlove.github.io/package/appcuios.tk.aperturize@2.1.5
-
 Package: appcuios.tk.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
@@ -69,43 +51,6 @@ Name: FacebookDarkMode Cracked
 Author: FoxfortMobile
 Sponsor: chienlove.github.io
 Depiction: https://chienlove.github.io/package/appcuios.tk.facebookdarkmodecrack@2.1.13
-
-Package: appcuios.tk.foxforthack
-Architecture: iphoneos-arm
-Version: 0.0.3
-Section: Tweaks
-Maintainer: Chienlove
-Depends: firmware(>=11.0), mobilesubstrate
-Conflicts: ru.rejail.foxforthack, com.pulandres.foxforthack
-Filename: ./debs/appcuios.tk.foxforthack@0.0.3.deb
-Size: 69922
-MD5sum: b0567d265532de6315b5bf41ea6629a1
-SHA1: d254613661d5e09a69ce678922cace03d0db6cd6
-SHA256: d62728c033f242986857e5b27dd6624d388c36ddd659e2a0b6c03e9ca246fccf
-SHA512: da4494afda8e51966ce163ef2157bdb3917a0073f09339909943ff1bd1e27dc388ee947294384f584e1cfe37ef5ea5eeb9b664b874a118913a881a402260e576
-Description: Trợ lý hack cho các chỉnh sửa Foxfort.
-Name: Foxfort Hack
-Author: Sileoturkiye
-Depiction: https://chienlove.github.io/package/appcuios.tk.foxforthack@0.0.3
-
-Package: appcuios.tk.foxforttools
-Architecture: iphoneos-arm
-Version: 1.0.7
-Section: Tweaks
-Maintainer: Chienlove
-Pre-Depends: appcuios.tk.foxforthack
-Depends: mobilesubstrate
-Conflicts: com.foxfort.foxforttools
-Filename: ./debs/appcuios.tk.foxforttools@1.0.7.deb
-Size: 233030
-MD5sum: 5df19e7bd41973fe8ebc06c77a549f9e
-SHA1: 43c272f29415c5c768e73e9c390771638114f729
-SHA256: 3c768cb0e16c1cf366a96ba0b04ec91e44283f3d03f5f8fc2b224f932ea5ee7e
-SHA512: cbe7cbf30f5ca99db12ce2ce6c18efee92712a3aec93d76196a1240ebecb1f41c099a5761678d1a133062e0960168cd163a45553b830c494bbef9229c80b39d6
-Description: Công cụ tiện ích cho các tinh chỉnh Foxfort.
-Name: FoxFort Tools
-Author: FoxfortMobile
-Depiction: https://chienlove.github.io/package/appcuios.tk.foxforttools@1.0.7
 
 Package: appcuios.tk.fuji
 Architecture: iphoneos-arm
