@@ -1,3 +1,24 @@
+Package: appcuios.tk.VideoAdsSpeed
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Conflicts: com.yourepo.lenglengyu.adsspeed
+Filename: ./debs/appcuios.tk.VideoAdsSpeed@1.0.4-3.deb
+Size: 205746
+MD5sum: eb1041f450a5bac9bd7f3ea3fe77389d
+SHA1: d552ffe5ec250a27a24cc703a61c778ed1054c79
+SHA256: 72124b850f42b19ef1e7be0dfca86e292e91acb968afaf5641c04af71c8ef793
+SHA512: f7b06f13a61d51a9a1df8e2b4a9c4b57eb83fd930635deef7822fa46f0faec4c22f90fb32c7468d3fae5f8e175d05495f016e33c0080e1070aeed853b2bf4694
+Description: Tua nhanh video quảng cáo trong ứng dụng và trò chơi.
+Tag: purpose::extension, compatible::ios12, compatible::ios13
+Author: lenglengyu <lenglengyu@126.com>
+Name: VideoAdsSpeed VH
+dev: lenglengyu
+Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.VideoAdsSpeed@1.0.4-3
+
 Package: appcuios.tk.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
