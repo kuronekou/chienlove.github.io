@@ -130,6 +130,23 @@ Author: ichitaso <willfeeltips+ict@gmail.com>
 Icon: https://repo.packix.com/api/Packages/5db9690113f322001b4347b9/icon/download?size=medium
 Depiction: https://chienlove.github.io/package/appcuios.tk.icontweak@1.0.9
 
+Package: appcuios.tk.jbcleaner
+Architecture: iphoneos-arm
+Version: 14.4
+Section: Applications
+Maintainer: Chienlove
+Depends: firmware (>= 13.4), firmware (<= 14.4), mobilesubstrate, cy+model.iphone (>= 8.1), cy+model.iphone (<= 10.6), bash, dpkg, coreutils, ncurses, system-cmds, openssh
+Filename: ./debs/appcuios.tk.jbcleaner@14.4.deb
+Size: 442418
+MD5sum: aa297461ab56adf0820db679faaaeb23
+SHA1: 36fe564f6e7f0853cd621525f8fb34ab2024d22d
+SHA256: fa0a53cf9f13f54569d2a4edeec7bc02a9effcaaf6ecc81423a79576881963ed
+SHA512: 7f6a7f6f96f74a3fe20789608507726bc11feb7542e6a7109f9fc722911cbeb8b935d23e63abbc818b6f2e822bee5c117cbf32128b60cc29829bf0557053b23c
+Description: Đưa thiết bị về trạng thái JB ban đầu.<br><br><b>Hướng dãn sử dụng</b><br><br>Mở ứng dụng<br>Gõ "su" vào màn hình Terminal hiển thị và nhấn Enter<br>Bạn sẽ được nhắc nhập mật khẩu, gõ "alpine" và nhấn Enter<br>Trên màn hình var/mobile root# gõ lệnh "kaldir" và nhấn Enter ...
+Name: Tweak Cleaner PRO
+Author: Önder Azazi <onderazazi@hotmail.com>
+Depiction: https://chienlove.github.io/package/appcuios.tk.jbcleaner@14.4
+
 Package: appcuios.tk.lunartime
 Architecture: iphoneos-arm
 Version: 0.1
