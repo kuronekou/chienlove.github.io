@@ -109,6 +109,24 @@ Author: Dcsyhi <dcsyhi1998@gmail.com>
 icon: file:///Library/PreferenceBundles/FujiApp.bundle/icon.png
 Depiction: https://chienlove.github.io/package/appcuios.tk.fuji@1.0
 
+Package: appcuios.tk.icon
+Architecture: iphoneos-arm
+Version: 1.0
+Essential: yes
+Section: System
+Maintainer: Chienlove
+Filename: ./debs/appcuios.tk.icon@1.0.deb
+Size: 134328
+MD5sum: bdc6448fd5b7c86ee24a14480955220a
+SHA1: 0db85f780e4002b6922e927f23b4e333b381b997
+SHA256: 38b41dfe1fd14e672d4b8cbb98b92af196ed5ad0df47a7fa3e49ce5ebf269021
+SHA512: 397e725fc5e8ca58a6749519ed0af843181d159567369656681c4be49dd78e8704a8a0d49ad4bf70763c5b3cbfac1c6be2f8cef0c1134e45ab2a8c5af21add31
+Description: icons thể loại của nguồn Chienlove
+Name: Icon Repo Chienlove
+Author: Chienlove
+Icon: file:///Applications/Cydia.app/Sections/CydiaIcon.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.icon@1.0
+
 Package: appcuios.tk.icontweak
 Architecture: iphoneos-arm
 Version: 1.0.9
