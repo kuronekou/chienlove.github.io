@@ -155,15 +155,16 @@ Section: Applications
 Maintainer: Chienlove
 Depends: firmware (>= 13.4), firmware (<= 14.4), mobilesubstrate, cy+model.iphone (>= 8.1), cy+model.iphone (<= 10.6), bash, dpkg, coreutils, ncurses, system-cmds, openssh
 Filename: ./debs/appcuios.tk.jbcleaner@14.4.deb
-Size: 442418
-MD5sum: aa297461ab56adf0820db679faaaeb23
-SHA1: 36fe564f6e7f0853cd621525f8fb34ab2024d22d
-SHA256: fa0a53cf9f13f54569d2a4edeec7bc02a9effcaaf6ecc81423a79576881963ed
-SHA512: 7f6a7f6f96f74a3fe20789608507726bc11feb7542e6a7109f9fc722911cbeb8b935d23e63abbc818b6f2e822bee5c117cbf32128b60cc29829bf0557053b23c
+Size: 442442
+MD5sum: ad3af4c0f7f6fc4802c66f4abb1c034c
+SHA1: 5510f9fc52cdeb4ebc040e5185056e0c34e5fb14
+SHA256: db451d9bc955531328d7ce1cba4d903a7b04d834545e23859f32c929b6f81bb3
+SHA512: b8014b09b21b0dadd3cd1713724cbd6780170fd4fe279ef77f57c9a732456b4f65ecd2e33f0040a68953a74db104d7d2f2970c8581bd959118364b0de4e6c230
 Description: Đưa thiết bị về trạng thái JB ban đầu.<br><br><b>Hướng dãn sử dụng</b><br><br>Mở ứng dụng<br>Gõ "su" vào màn hình Terminal hiển thị và nhấn Enter<br>Bạn sẽ được nhắc nhập mật khẩu, gõ "alpine" và nhấn Enter<br>Trên màn hình var/mobile root# gõ lệnh "kaldir" và nhấn Enter ...
 Name: Tweak Cleaner PRO
 Author: Önder Azazi <onderazazi@hotmail.com>
 Depiction: https://chienlove.github.io/package/appcuios.tk.jbcleaner@14.4
+Icon: file:///Applications/Cydia.app/Sections/Applications@1.png
 
 Package: appcuios.tk.lunartime
 Architecture: iphoneos-arm
