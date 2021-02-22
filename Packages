@@ -166,6 +166,24 @@ Author: Önder Azazi <onderazazi@hotmail.com>
 Depiction: https://chienlove.github.io/package/appcuios.tk.jbcleaner@14.4
 Icon: file:///Applications/Cydia.app/Sections/Applications@1.png
 
+Package: appcuios.tk.lowerinstall
+Architecture: iphoneos-arm
+Version: 0.0~beta3
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate
+Filename: ./debs/appcuios.tk.lowerinstall@0.0~beta3.deb
+Size: 39728
+MD5sum: 3a794a1db98bc5f8d5d5396e117d1558
+SHA1: 99723ed94004e885de4ecdab2586a4aaf6a59034
+SHA256: e8e1f01674b22377bfcff69a21b332a48e9c367c4bc4541d340cf7839fd1d861
+SHA512: a204e092f1649208d3aa37da054d07222fe7020d127e9cc34c2920a544ba178dfa78cf08770439327660a43054a90aeb31c2a594d4e86c75c0029722033a795a
+Homepage: https://chienlove.github.io
+Description: Cài đặt ứng dụng lên phiên bản iOS không tương thích.  Ví dụ: ứng dụng yêu cầu phiên bản iOS 14 nhưng iPhone của bạn lại chạy iOS 13 và ngược lại.
+Name: LowerInstall
+Author: julioverne
+Depiction: https://chienlove.github.io/package/appcuios.tk.lowerinstall@0.0~beta3
+
 Package: appcuios.tk.lunartime
 Architecture: iphoneos-arm
 Version: 0.1
