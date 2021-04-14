@@ -221,6 +221,26 @@ Name: LunarTime
 Author: fahlnbg
 Depiction: https://chienlove.github.io/package/appcuios.tk.lunartime@0.1
 
+Package: appcuios.tk.notifierdots
+Architecture: iphoneos-arm
+Version: 0.3-5
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware (>=11.0), firmware (>= 11.0),  mobilesubstrate (>= 0.9.5000), applist, preferenceloader (>= 2.2.3), ws.hbang.common (>= 1.11)
+Filename: ./debs/appcuios.tk.notifierdots@0.3-5.deb
+Size: 126152
+MD5sum: 261cbb8c5eb74c347681cc4a4035dc35
+SHA1: 50c83bfa855fef22546063207d94772fe8fde2c0
+SHA256: 7632f33a66ac3bb197655460211cd5917a6c9e2ecf28189d3afcc3c0eab2cd62
+SHA512: be560adeb886d8f9cabd459cdd283699002e7a6a1e044d3afb43cc1615e0ce1828a2b11e1816c0bbce21014081efea25371b17253bf5a89888d35608ffd0e0d4
+Homepage: https://chienlove.github.io/
+Description: Chỉ báo thông báo dựa trên biểu tượng ứng dụng trên thanh trạng thái, dành cho điện thoại có tải thỏ.
+Name: NotifierDots VH
+Icon: https://iamalive2008.github.io/repo/assets/com.mumiantech.notifierdots/icon.png
+Tags: compatible_min::ios11.0, compatible_max::ios14.3
+Author: iamalive2008 <iamalive2008@foxmail.com>
+Depiction: https://chienlove.github.io/package/appcuios.tk.notifierdots@0.3-5
+
 Package: appcuios.tk.nougat
 Architecture: iphoneos-arm
 Version: 1.3.1
