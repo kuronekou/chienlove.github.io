@@ -54,6 +54,24 @@ Name: bfdecrypt VH
 Author: level3tjg <tjaygrantham@gmail.com>
 Depiction: https://chienlove.github.io/package/appcuios.tk.bfdecrypt@1.3.2
 
+Package: appcuios.tk.copylog
+Architecture: iphoneos-arm
+Version: 1.5.3k
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/appcuios.tk.copylog@1.5.3k.deb
+Size: 2126108
+MD5sum: ce101432b64fff31561b714f5e6ec2c0
+SHA1: 37e2d38121721c1c9951449ba7a262c5b6eecbd1
+SHA256: c2164fc60e93b3318db1d9b8310124f87f933c245e4d40babe45104b0d49bb48
+SHA512: 5e780ee8a0add1bd6240cfa75a09afe2fea81db36b6c19f05361ccfa94158c99b58d28ae291ec14fd95e435f40616e29ec219cd03a1471db7af48ef8a6f6d165
+Description: CopyLog là trình quản lý lịch sử khay nhớ tạm mạnh mẽ dành cho iOS, dễ sử dụng, hoạt động trên cả iPhone và iPad và sẽ giúp bạn theo dõi những gì bạn đã sao chép trên thiết bị của mình.<br><br>Với bố cục tương tự như ứng dụng Dán dành cho Mac, ứng dụng này quen thuộc với một số người dùng và cho phép dễ dàng truy cập vào các đoạn văn bản tự động được thêm vào lịch sử của bạn. CopyLog cũng cho phép bạn chọn các đoạn văn bản yêu thích để giữ chúng an toàn và dễ truy cập.<br><br>Chỉ cần để CopyLog thực hiện việc lưu khay nhớ tạm của nó trong nền và nếu bạn cần khôi phục nội dung nào đó bạn đã sao chép, bạn có thể! CopyLog cũng hữu ích nếu bạn cần sao chép nhiều đoạn văn bản, vì bạn sẽ chỉ cần mở giao diện người dùng của nó bằng một lần vuốt để dán từng đoạn văn bản trong số chúng!<br><br>Cần tìm một đoạn trích cụ thể? Sử dụng tính năng tìm kiếm bằng cách vuốt từ trái sang phải! Bạn thậm chí có thể xem trước nội dung trang web cho các đoạn có chứa liên kết bằng cách vuốt lên trên nội dung của chúng! Bạn muốn airdrop hoặc chia sẻ đoạn mã với một người bạn đã jailbreak/chưa jailbreak? Chỉ cần nhấn và giữ đoạn mã và nhấp vào nút chia sẻ! Sử dụng một ứng dụng lấp đầy khay nhớ tạm của bạn với rác không mong muốn? Chỉ cần nhấn vào biểu tượng Danh sách đen trong trang chia sẻ đoạn mã! CopyLog có rất nhiều tính năng để cung cấp!<br><br><b>Làm thế nào để sử dụng:</b><br>Bắt đầu sao chép, sau đó thực hiện cử chỉ vuốt lên trên bàn phím của bạn từ giữa lên trên bàn phím để hiển thị lịch sử khay nhớ tạm, sau đó nhấn vào bất kỳ đoạn văn bản nào bạn muốn dán!
+Name: CopyLog Cracked VH
+Author: TomT000
+Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.copylog@1.5.3k
+
 Package: appcuios.tk.facadecolor
 Architecture: iphoneos-arm
 Version: 2.0-2
