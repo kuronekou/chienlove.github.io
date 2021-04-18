@@ -19,6 +19,29 @@ dev: lenglengyu
 Icon: file:///Library/PreferenceBundles/adsspeed.bundle/icon@2x.png
 Depiction: https://chienlove.github.io/package/appcuios.tk.VideoAdsSpeed@1.0.4-3
 
+Package: appcuios.tk.altstore
+Architecture: iphoneos-arm
+Version: 1.4.5
+Section: Utilities
+Maintainer: Chienlove
+Depends: firmware (>= 12.2), com.rileytestut.altdaemon
+Conflicts: com.rileytestut.altstore.alpha.jailbroken, com.rileytestut.AltStore
+Replaces: appcuios.tk.altstore
+Filename: ./debs/appcuios.tk.altstore@1.4.5.deb
+Size: 4583734
+MD5sum: 2c6745c5921e46e7a8771ecf6d0723e9
+SHA1: 2945c85f73d64a78b55ddc3e78b13353fb01db74
+SHA256: 93eb1151125c1e4fe361f824d3dd099f340b1dc18973f52784270d7f81f8fcb8
+SHA512: d6af99f5e1d045d5e92b1e4c18ef9b0724143c5478c41efe9f70caed7905119a20273cb4b77192107026d79145bd8e88b810d307690073c747045d649bdcc571
+Homepage: https://chienlove.github.io/
+Description: AltStore ứng dụng ký tệp ipa. Phiên bản cho máy jailbreak.
+Tag: purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14
+Author: Riley Testut
+Name: AltStore
+dev: Riley Testut
+Icon: file:///Applications/AltStore.app/AppIcon60x60@2x.png
+Depiction: https://chienlove.github.io/package/appcuios.tk.altstore@1.4.5
+
 Package: appcuios.tk.autounlockx
 Architecture: iphoneos-arm
 Version: 1.0.16
