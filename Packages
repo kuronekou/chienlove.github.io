@@ -300,6 +300,23 @@ Author: Shade Zepheri <ziroalpha@gmail.com>
 Icon: https://chariz.com/cdn/icon/nougat/icon@3x.png
 Depiction: https://chienlove.github.io/package/appcuios.tk.nougat@1.3.1
 
+Package: appcuios.tk.refacehack
+Architecture: iphoneos-arm
+Version: 0.0.1-1+debug
+Section: Tweaks
+Maintainer: @Chienlove
+Depends: mobilesubstrate
+Filename: ./debs/appcuios.tk.refacehack@0.0.1-1+debug.deb
+Size: 12604
+MD5sum: 11041223ef555476fce8c081a8cd3985
+SHA1: d797959d3f02b89995c836d093fb89d4f825efd8
+SHA256: dc47cd33cea7dd65daae17c2afb875757a94edd886ebebaa14973f892308462f
+SHA512: de47b531532c30b7cec2cb3003c2b7e58ea18db3555be10b64c90a72d1669fb6c7f01a35a5664b0901da1063e38afdb8d2531d42d397445bfbcd39484a96644b
+Description: Tinh chỉnh hack các tính năng PRO của app Reface.<br><br><ul><li>Không có quảng cáo</li><li>Không có hình mờ (logo)</li><li>Truy cập vô hạn</li></ul>
+Name: Hack RefacePRO
+Author: @CrazyMind90
+Depiction: https://chienlove.github.io/package/appcuios.tk.refacehack@0.0.1-1+debug
+
 Package: appcuios.tk.screenshotx
 Architecture: iphoneos-arm
 Version: 1.1
