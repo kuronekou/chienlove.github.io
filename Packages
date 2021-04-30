@@ -262,6 +262,23 @@ Name: LunarTime
 Author: fahlnbg
 Depiction: https://chienlove.github.io/package/appcuios.tk.lunartime@0.1
 
+Package: appcuios.tk.newtab
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Chr1s
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/appcuios.tk.newtab@1.0.0.deb
+Size: 7368
+MD5sum: 20599fb9adb503322282904046a6a47a
+SHA1: 0df09640ff1fb7e6329ca4250636fb4c0902fd7c
+SHA256: 3c79e565904d2ec18a2a32780ae8c5ae3221b46478caeda7e1dcd472829cd87e
+SHA512: 25a8cdf566bfac4de0ce94908ce05af9dbcc9568dbf8bb2e06d617334d6eb3fd087886fa56e3af2c3215f4b561f0655827909e66bb57b6058d31f15f987367e0
+Description: Thêm phím tắt newtab vào thanh công cụ safari.  Thêm tab mới nhanh chóng tiện lợi.
+Name: NewTab
+Author: Chr1s
+Depiction: https://chienlove.github.io/package/appcuios.tk.newtab@1.0.0
+
 Package: appcuios.tk.notifierdots
 Architecture: iphoneos-arm
 Version: 0.3-5
