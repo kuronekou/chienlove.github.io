@@ -95,6 +95,23 @@ Author: TomT000
 Icon: https://repo.midn1ght.dev/public/dev.midn1ght.copylog/icon.png
 Depiction: https://chienlove.github.io/package/appcuios.tk.copylog@1.5.3k
 
+Package: appcuios.tk.exacttimephone
+Architecture: iphoneos-arm
+Version: 1.0-1+debug
+Section: Tweaks
+Maintainer: Chienlove
+Depends: mobilesubstrate
+Filename: ./debs/appcuios.tk.exacttimephone@1.0-1+debug.deb
+Size: 11798
+MD5sum: cb3648e8a20817542e1719158ea5fed2
+SHA1: e6f8ce5affe739bb3ebfada130934b073dbe223e
+SHA256: 29905d0d1949759c11c07df1cd2d4dad2ca972a021b4e1a277224fb148b9b345
+SHA512: f35cb394ded75dce66e998b66eabca3027586ae2cb1ee7353e4a4c309ac0973960371a9396d96523264ca3278aaea427c0eba61851963d374de6866c7e6d8ac5
+Description: Thêm thời gian chính xác vào nhật ký cuộc gọi trong ứng dụng điện thoại.
+Name: ExactTimePhone
+Author: gilshahar7
+Depiction: https://chienlove.github.io/package/appcuios.tk.exacttimephone@1.0-1+debug
+
 Package: appcuios.tk.facadecolor
 Architecture: iphoneos-arm
 Version: 2.0-2

@@ -1,0 +1,3 @@
+[submodule "app-store"]
+	path = app-store
+	url = https://chienlove.github.io/app-store
