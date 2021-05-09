@@ -1,3 +1,22 @@
+Package: Chienlove.appstoreplusplus
+Architecture: iphoneos-arm
+Version: 0.9.16-2
+Priority: optional
+Section: Tweaks
+Maintainer: Chienlove
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.unlimapps.uaupdatetools, com.cokepokes.appstoreplusplus
+Filename: ./debs/Chienlove.appstoreplusplus@0.9.16-2.deb
+Size: 3077488
+MD5sum: 739172a435cfd7d21305b9b160daa23e
+SHA1: 949b8ec8ffecedcced39b01b5d714c8528b0630b
+SHA256: 040b0da435356d2cb4e7b84f99353427828d84d99eb2cda543b16209651c4ae5
+SHA512: 5397ec50c152279a119500d3a61b2374727fe68d29a55745edc14e5a36fa5e4f53d3e0d7f241f2752cea8814894b2b01925a231606f88ecc29c6ab73574b8431
+Description: - Cho phép bạn nâng cấp / hạ cấp ứng dụng trong AppStore<br>- Chặn cập nhật ứng dụng<br>- Không bị giới hạn tải xuống ứng dụng lớn hơn 200MB<br>- Tắt quảng cáo tìm kiếm và tắt tính năng làm mỏng ứng dụng<br><hr><br>Cách sử dụng:<br>  + Vào Appstore ấn giữ mục tải về sẽ hiện ra tuỳ chọn<br>  + Vào Appstore ấn giữ mục tài khoản (Avatar) để hiện cài đặt cho Appstore++
+Name: AppStore++ (NoAds)
+Author: CokePokes
+Depiction: https://chienlove.github.io/package/Chienlove.appstoreplusplus@0.9.16-2
+
 Package: appcuios.tk.VideoAdsSpeed
 Architecture: iphoneos-arm
 Version: 1.0.4-3
