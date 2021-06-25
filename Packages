@@ -442,6 +442,23 @@ Author: MiRO <tweaks_support@miro92.com>
 Icon: file:////Library/PreferenceBundles/Tranzlo.bundle/Header.png
 Depiction: https://chienlove.github.io/package/appcuios.tk.tranzlo@2.3
 
+Package: chienlove.batteryhealthenabler
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PoomSmart
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.3)
+Filename: ./debs/chienlove.batteryhealthenabler@1.0.0.deb
+Size: 8028
+MD5sum: 428d4db8bff0237654cdf864d90fcffe
+SHA1: 0d444b73afe8247493738df380efdbed0ccfd807
+SHA256: e79ab18cde8d2afe9790adae8c3e936569b3b97b48479aad561171904282dbd7
+SHA512: f4a847391e2a4ef77a87ecfe08751499a1a33f34e5236e37658c7f768823f96837751f5d863b02f7f6ed88b771827c87f4d2bf1c2c91da13c4df751886159ea0
+Description: Bật tình trạng pin trên các thiết bị không được hỗ trợ.
+Name: Battery Health Enabler
+Author: PoomSmart
+Depiction: https://chienlove.github.io/package/chienlove.batteryhealthenabler@1.0.0
+
 Package: tk.appcuios.appsyncunified
 Architecture: iphoneos-arm
 Version: 92.0
