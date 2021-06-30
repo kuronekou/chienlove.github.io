@@ -459,6 +459,25 @@ Name: Battery Health Enabler
 Author: PoomSmart
 Depiction: https://chienlove.github.io/package/chienlove.batteryhealthenabler@1.0.0
 
+Package: chienlove.macpass
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Depends: firmware (>=13.0), mobilesubstrate, com.spark.libsparkcolourpicker, com.muirey03.libimagepicker, ws.hbang.common
+Filename: ./debs/chienlove.macpass@1.1.deb
+Size: 249444
+MD5sum: 49a0d88c9074045831088acc5b3af7a2
+SHA1: bc22d4600c15250b8cbd57659cafef2765d1c5e3
+SHA256: 80743f2b18936c05443b09752dc99e5d18a7ad8ff5717cc054349a473710541a
+SHA512: 9ca3a115d8267c8ce9e0f7bbe12d7ec801c1653bf170e35d05126662122eef7f3621dc0fe1d35b4d0c2869068d2df3b43beb0d33c67935fe8be108ff100222ae
+Homepage: https://chienlove.github.io
+Description: MacPass Màn hình đăng nhập MacOS cho iOS! MacPass được xác nhận là hoạt động trên iOS 13 & 14.<br><br>Điều này không cung cấp mật mã cho các thiết bị checkra1n bị vô hiệu hóa SEP.
+Tag: role::enduser
+Name: MacPass VH
+Icon: https://nahtedetihw.github.io/assets/com.nahtedetihw.macpass/icon.png
+SomeOtherEntryToControl: True
+Depiction: https://chienlove.github.io/package/chienlove.macpass@1.1
+
 Package: tk.appcuios.appsyncunified
 Architecture: iphoneos-arm
 Version: 92.0
